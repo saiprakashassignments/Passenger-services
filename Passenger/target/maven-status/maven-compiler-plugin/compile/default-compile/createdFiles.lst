@@ -1,0 +1,8 @@
+com\lib\dao\IPassenger_profile_dao.class
+com\lib\util\HibernateUtils.class
+com\lib\dao\Credit_card_details_dao.class
+com\lib\pojo\passenger_profile.class
+com\lib\dao\Passenger_profile_dao.class
+com\lib\dao\ICredit_card_details_dao.class
+com\lib\pojo\Credit_card_details.class
+META-INF\annotations\javax.persistence.Entity
